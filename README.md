@@ -1,2 +1,1 @@
-# FrontEnd
-Front-end for helping hand website
+A-Helping-Hand
