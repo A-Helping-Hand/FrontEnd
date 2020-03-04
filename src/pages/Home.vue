@@ -22,6 +22,11 @@
           About Us
         </router-link>
        </li>
+       <li>
+        <router-link to="/blog">
+          Our Blog
+        </router-link>
+       </li>
     </ul>
   </nav>
 </div>
