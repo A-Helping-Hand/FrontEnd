@@ -39,13 +39,12 @@
 
   <nav>
     <ul>
-      <li>Go to</li>
 
       <li>
         <a
-          href="blog.html"
+          href="/"
         >
-          Our Blog
+          Return
         </a>
        </li>
     </ul>

@@ -10,6 +10,7 @@
         alt="hand pic2"
         src="@/assets/hand2.png"
      >
+     <p>Hello and Welcome. We are A Helping Hand.</p>
 
 
  
@@ -17,13 +18,12 @@
 
   <nav>
     <ul>
-      <li>Go to</li>
 
       <li>
         <a
-          href="about.html"
+          href="/"
         >
-          About Us
+          Return
         </a>
        </li>
     </ul>
