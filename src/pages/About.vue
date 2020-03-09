@@ -10,8 +10,13 @@
         alt="hand pic2"
         src="@/assets/hand2.png"
      >
-     <p>Hello and Welcome. We are A Helping Hand.</p>
-
+    <p style="font-size:30px">Hello and Welcome. We are A Helping Hand.</p>
+    <p style="font-size:20px"> We are developing a platform for design engineers, clinicians, and humanitarians </p>
+    <p style="font-size:20px"> who are designing and 3D printing prosthetic hands for amputees in the developing world </p>
+    <p style="font-size:20px">Our user, the design engineer, will be able to view hand designs, </p>
+    <p style="font-size:20px">view feedback on designs they've printed, and compare hands against a benchmark we have provided </p>
+    <br>
+    <p style="font-size:30px">MEET THE TEAM: </p>
 
  
   
