@@ -27,6 +27,16 @@
           Our Blog
         </router-link>
        </li>
+       <li>
+        <router-link to="/gallery">
+          Prosthetic Hand Gallery
+        </router-link>
+       </li>
+       <li>
+        <router-link to="/analyze">
+          Analyzing of Prosthetic Hand
+        </router-link>
+       </li>
     </ul>
   </nav>
 </div>
