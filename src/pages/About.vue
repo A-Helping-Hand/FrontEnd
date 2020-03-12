@@ -27,7 +27,7 @@
           <h2>Luan Williams</h2>
           <p class="title">CEO &amp; Founder</p>
           <p>Leader, Master, Head Huncho, whatever you want to call me</p>
-          <p>example@example.com</p>
+          <p>willialu@tcd.ie</p>
           <p><button class="button">Contact</button></p>
         </div>
       </div>
@@ -40,7 +40,7 @@
           <h2>Paolo Moloney</h2>
           <p class="title">Mr. Visionary</p>
           <p>He is the man that can see all. Perfect 2020 Vision.</p>
-          <p>paolo@trinity.com</p>
+          <p>molonepa@tcd.ie</p>
           <p><button class="button">Contact</button></p>
         </div>
       </div>
@@ -50,10 +50,10 @@
       <div class="card">
         <img src="@/assets/Anporo.jpg" alt="Anporo" style="width:30%">
           <div class="container">
-          <h2>Anporo Zamora Mogollo</h2>
+          <h2>Amparo Zamora Mogollo</h2>
           <p class="title">Madam Video</p>
-          <p>Anporo is an expert of videos, and makes for a perfect voice over</p>
-          <p>anporo@tcd.com</p>
+          <p>Amparo is an expert of videos, and makes for a perfect voice over</p>
+          <p>zamorama@tcd.ie</p>
           <p><button class="button">Contact</button></p>
         </div>
       </div>
@@ -66,7 +66,7 @@
           <h2>Alex Fleming</h2>
           <p class="title">Biomedical Leader</p>
           <p>Alex is in charge of the Biomedical Engineers. She is both a leader and a follower</p>
-          <p>alex@tcd.com</p>
+          <p>alflemin@tcd.ie</p>
           <p><button class="button">Contact</button></p>
         </div>
       </div>
@@ -76,10 +76,10 @@
       <div class="card">
         <img src="@/assets/Matthew.jpg" alt="Matthew" style="width:11%">
           <div class="container">
-          <h2>Matthew McCullen</h2>
+          <h2>Matthew Cullen</h2>
           <p class="title">Scrum Master</p>
           <p>Loves getting knee-deep in a Good Scrum.</p>
-          <p>matthew@tcd.com</p>
+          <p>mcullen8@tcd.ie</p>
           <p><button class="button">Contact</button></p>
         </div>
       </div>
@@ -92,7 +92,7 @@
           <h2>Ryan Hosn</h2>
           <p class="title">The Artist</p>
           <p>He is the modern day Picasso, Michaelangelo, Da Vinci, and Pat Kenny all in one</p>
-          <p>ryan@tcd.com</p>
+          <p>hosnr@tcd.ie</p>
           <p><button class="button">Contact</button></p>
         </div>
       </div>
@@ -105,7 +105,7 @@
           <h2>Chihun Lee</h2>
           <p class="title">The Back End</p>
           <p>A master of all back-ends</p>
-          <p>chihun@tcd.com</p>
+          <p>clee1@tcd.ie</p>
           <p><button class="button">Contact</button></p>
         </div>
       </div>
@@ -118,7 +118,7 @@
           <h2>Marek Betka</h2>
           <p class="title">Server Guy</p>
           <p>Makes sure everything exists, and makes sense.</p>
-          <p>marek@tcd.com</p>
+          <p>marek@tcd.ie</p>
           <p><button class="button">Contact</button></p>
         </div>
       </div>
@@ -131,7 +131,7 @@
           <h2>Mary McDonald</h2>
           <p class="title">Ms. Front-End</p>
           <p>The boss of the front, doesn't like quitters.</p>
-          <p>mary@tcd.com</p>
+          <p>mcdonam7@tcd.ie</p>
           <p><button class="button">Contact</button></p>
         </div>
       </div>
