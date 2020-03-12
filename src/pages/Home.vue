@@ -4,41 +4,15 @@
 <div>
     <img
       alt="hand pic"
-      src="@/assets/logo.jpg" width = 300 height = 200
+      src="@/assets/logo.jpg" width = 400 height = 300
     >
 
 
-    <title>A Helping Hand</title>
-    <h1>A Helping Hand</h1>
+    <title >A Helping Hand</title>
+    <h1 style="font-size:50px">A Helping Hand</h1>
 
   
 
-  <nav>
-    <ul>
-      <li>Go to</li>
-
-      <li>
-        <router-link to="/about">
-          About Us
-        </router-link>
-       </li>
-       <li>
-        <router-link to="/blog">
-          Our Blog
-        </router-link>
-       </li>
-       <li>
-        <router-link to="/gallery">
-          Prosthetic Hand Gallery
-        </router-link>
-       </li>
-       <li>
-        <router-link to="/analyze">
-          Analyzing of Prosthetic Hand
-        </router-link>
-       </li>
-    </ul>
-  </nav>
 </div>
 </template>
 
