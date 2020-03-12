@@ -5,6 +5,10 @@
   <div id="app">
     <title>Blog</title>
     <h1>Blog</h1>
+    <img
+        alt="hand pic2"
+        src="@/assets/logo.jpg" width = 300 height = 200
+     >
     
    <div class = "firstpost"><img src="@/assets/hand1.jpg" width="600" height="400" alt="First Image">
    <div><p1 align = "left"> 

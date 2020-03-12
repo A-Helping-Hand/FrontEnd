@@ -8,7 +8,7 @@
     
       <img
         alt="hand pic2"
-        src="@/assets/hand2.png"
+        src="@/assets/logo.jpg" width = 300 height = 200
      >
     <p style="font-size:30px">Hello and Welcome. We are A Helping Hand.</p>
     <p style="font-size:20px"> We are developing a platform for design engineers, clinicians, and humanitarians </p>

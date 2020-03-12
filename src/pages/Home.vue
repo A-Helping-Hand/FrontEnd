@@ -4,7 +4,7 @@
 <div>
     <img
       alt="hand pic"
-      src="@/assets/hand.png"
+      src="@/assets/logo.jpg" width = 300 height = 200
     >
 
 
