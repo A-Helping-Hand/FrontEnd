@@ -4,6 +4,10 @@
   <div id="app">
     <title>Gallery</title>
     <h1>Gallery of our Prosthetic Hands</h1>
+    <img
+        alt="hand pic2"
+        src="@/assets/logo.jpg" width = 300 height = 200
+     >
     
    <div class = "firsthand"><img src="@/assets/phoenixv2.jpg" width="600" height="400" alt="Phoenix V2" usemap="#phoenixmap">
     <map name="phoenixmap">
