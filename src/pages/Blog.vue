@@ -37,10 +37,41 @@
     <div><img src="@/assets/luan&marek.jpg" width="600" height="400" alt="Third Image">
     <div><p1 align = "left">
         <p>07/02/2020</p>
+
+        <p align = "middle">Here, two of our visionaries; Luan and Marek, can be seen deep in conversation.</p>
+        <p align = "middle">Possibly pertaining the future of our project. </p>
+        <p align = "middle">Marek seems to be raising some important issues with Luan, </p>
+        <p align = "middle">Who is rather baffled by it.</p>
    
         </p1></div>
     </div>
-    
+
+    <div><img src="@/assets/printing.jpg" width="600" height="400" alt="Fourth Image">
+    <div><p1 align = "left">
+        <p>14/02/2020</p>
+
+        <p align = "middle">The first prototype of one of our hands can be seen here being printed.</p>
+        <p align = "middle">This is a big day for us here at A Helping Hand, as we will finally get to see our progress </p>
+        <p align = "middle">Updates to Follow</p>
+
+     
+   
+        </p1></div>
+    </div>
+
+    <div><img src="@/assets/printing2.jpg" width="600" height="400" alt="Fifth Image">
+    <div><p1 align = "left">
+        <p>21/02/2020</p>
+
+        <p align = "middle">Once again you can see our prototype being printed.</p>
+        <p align = "middle">It takes an incredibly long time for this progress to actually be completed, </p>
+        <p align = "middle">Hence why it has taken over a week for the hand to actually be printed...</p>
+        
+
+     
+   
+        </p1></div>
+    </div>
 
   <nav>
     <ul>
