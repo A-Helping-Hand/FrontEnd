@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     
-    <b-navbar fixed-top="true" type="is-black" shadow="true">
+    <b-navbar fixed-top type="is-black" shadow>
       <template slot="brand">
         <b-navbar-item tag="router-link" :to="{ path: '/' }">
         </b-navbar-item>
