@@ -5,9 +5,7 @@
         Upload Image File
         <input id="image-file" type="file" @change="uploadImage"/>
     </label>
-    <div v-if="image">
-        <img :src="image">
-    </div>
+    
 </template>
 
 
