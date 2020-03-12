@@ -4,6 +4,11 @@
     <div>
         <h1>A Helping Hand</h1>
 
+        <img
+        alt="hand pic2"
+        src="@/assets/logo.jpg" width = 300 height = 200
+     >
+
         <video width="960" height="540" controls>
         <source src="@/assets/circle_eval_demo.mp4" type="video/mp4">
         </video>
