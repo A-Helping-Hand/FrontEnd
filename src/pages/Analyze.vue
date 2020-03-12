@@ -29,7 +29,7 @@ export default {
       }).then(res =>
         res.blob().then(blobResponse => {
           this.image = blobResponse;
-          console.log(data);
+         
         })
       );
     }
