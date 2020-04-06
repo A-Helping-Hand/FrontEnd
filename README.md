@@ -1,1 +1,20 @@
-A-Helping-Hand
+# A Helping Hand Front-end Setup Guide
+
+> Front-end written in the Vue Framework.
+
+## Setup Instructions
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+```
